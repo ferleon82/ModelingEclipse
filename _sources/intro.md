@@ -1,4 +1,14 @@
-# Welcome to your Jupyter Book
+# MANUAL DE INSTALACION DE ECLIPSE MODELIN FRAMEWORK
+
+Eclipse Modeling Framework es un framework de modelado y facilidad de generación de código para construir herramientas y otras aplicaciones basadas en un modelo de datos estructurado. Detallaremos los pasos a seguir para realizar la instalacion en el IDE de desarrollo Eclipse:
+
+1. Dirigirnos a Help y seleccionar Install New Software.
+
+2. Seleccionamos --All Available Sities--
+
+3. Dentro de la opción Modeling seleccionamos "Ecore Diagram Editor(SDK)" y "EMF - Eclipse Modeling Framework SDK"
+
+4. 
 
 This is a small sample book to give you a feel for how book content is
 structured.
