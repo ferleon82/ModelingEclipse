@@ -1,19 +1,19 @@
 # MANUAL DE INSTALACION DE ECLIPSE MODELING FRAMEWORK
 
-# Instalación
+## Instalación
 
 Eclipse Modeling Framework es un framework de modelado y facilidad de generación de código para construir herramientas y otras aplicaciones basadas en un modelo de datos estructurado. Detallaremos los pasos a seguir para realizar la instalacion en el IDE de desarrollo Eclipse:
 
-1. Dentro de Eclipse nos dirigirnos a Help y seleccionamos Install New Software.
+1. Dentro de Eclipse nos dirigirnos a *Help* y seleccionamos *Install New Software.*...
 ![Figura 1](1.png)
 
-2. Seleccionamos --All Available Sities--
+2. Seleccionamos *--All Available Sities--*...
 ![Figura 2](2.png)
 
-3. Dentro de la opción Modeling seleccionamos "Ecore Diagram Editor(SDK)" y "EMF - Eclipse Modeling Framework SDK". Luego clic en "Next>"
+3. Dentro de la opción Modeling seleccionamos *"Ecore Diagram Editor(SDK)"* y *"EMF - Eclipse Modeling Framework SDK".* Luego clic en *"Next>"*
 ![Figura 3](3.png)
 
-4. Click en Next
+4. Click en *Next*
 ![Figura 4](4.png)
 
 5. Aceptamos la licencia y finalizamos.
