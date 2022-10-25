@@ -1,4 +1,4 @@
-# Instalación
+# Instalación EMD
 
 Eclipse Modeling Framework es un framework de modelado y facilidad de generación de código para construir herramientas y otras aplicaciones basadas en un modelo de datos estructurado. Detallaremos los pasos a seguir para realizar la instalacion en el IDE de desarrollo Eclipse:
 
