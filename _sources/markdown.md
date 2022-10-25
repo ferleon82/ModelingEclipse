@@ -1,6 +1,8 @@
-# Instalación EMD
+# ECORE MOLELING PROJECT
 
-Eclipse Modeling Framework es un framework de modelado y facilidad de generación de código para construir herramientas y otras aplicaciones basadas en un modelo de datos estructurado. Detallaremos los pasos a seguir para realizar la instalacion en el IDE de desarrollo Eclipse:
+El proyecto EMF es un marco de modelado y una instalación de generación de código para construir herramientas y otras aplicaciones basadas en un modelo de datos estructurados. A partir de una especificación de modelo descrita en XMI, EMF proporciona herramientas y soporte de tiempo de ejecución para producir un conjunto de clases de Java para el modelo, junto con un conjunto de clases de adaptadores que permiten la visualización y edición del modelo basada en comandos, y un editor básico.
+
+# Creando un nuevo projecto
 
 1. Dentro de Eclipse nos dirigirnos a Help* y seleccionamos *Install New Software.*
 

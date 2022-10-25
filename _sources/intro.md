@@ -21,7 +21,7 @@ Eclipse Modeling Framework es un framework de modelado y facilidad de generació
 ![Figura 3](https://raw.githubusercontent.com/ferleon82/Imagenes/main/3.png)
 
 
-+ Click en *Next*
++ Click en *Next>*
 
 
 ![Figura 4](https://raw.githubusercontent.com/ferleon82/Imagenes/main/4.png)
