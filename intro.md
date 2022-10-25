@@ -6,10 +6,10 @@ Eclipse Modeling Framework es un framework de modelado y facilidad de generació
 ![Figura 1](1.jpg)
 
 2. Seleccionamos --All Available Sities--
-![Figura 2](2.png){width 80%}
+![Figura 2](2.jpg)
 
 3. Dentro de la opción Modeling seleccionamos "Ecore Diagram Editor(SDK)" y "EMF - Eclipse Modeling Framework SDK"
-![Figura 3](3.png){width 80%}
+![Figura 3](3.jpg)
 4. 
 
 This is a small sample book to give you a feel for how book content is
