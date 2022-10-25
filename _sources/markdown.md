@@ -28,28 +28,16 @@ El proyecto EMF es un marco de modelado y una instalación de generación de có
 ![Figura 4](https://raw.githubusercontent.com/ferleon82/Imagenes/main/13.png)
 
 
-5. Clic en *Next >*
+5. Seleccionamos *Design* y clic en *Finish*
 
 
 ![Figura 5](https://raw.githubusercontent.com/ferleon82/Imagenes/main/14.png)
 
 
-6. Esperamos que termine el proceso de instalacion que aparece en la barra inferior.
+6. Finalmente nos encontramos en un nuevo proyecto
 
 
-![Figura 6](https://raw.githubusercontent.com/ferleon82/Imagenes/main/6.png)
-
-
-7. Una vez ternime la instalación nos aparecera la siguiente figura en la cual tenemos que seleccionar *Unsigned* y luego clic en *Trust Selected*
-
-
-![Figura 7](https://raw.githubusercontent.com/ferleon82/Imagenes/main/7.png)
-
-
-8. Finalmente debemos reiniciar el programa
-
-
-![Figura 8](https://raw.githubusercontent.com/ferleon82/Imagenes/main/8.png)
+![Figura 6](https://raw.githubusercontent.com/ferleon82/Imagenes/main/16.png)
 
 
 
