@@ -7,7 +7,7 @@ Eclipse Modeling Framework es un framework de modelado y facilidad de generació
 1. Dentro de Eclipse nos dirigirnos a *Help* y seleccionamos *Install New Software.*
 
 
-![Figura 1](1.png)
+![Figura 1](https://github.com/ferleon82/Imagenes/blob/d8e6ca538dc4519caec9320b1ebd001025144e8a/1.png)
 
 
 2. Seleccionamos *--All Available Sities--*
@@ -30,6 +30,8 @@ Eclipse Modeling Framework es un framework de modelado y facilidad de generació
 
 6. Esperamos que termine el proceso de instalacion que aparece en la barra inferior.
 ![Figura 6](6.png)
+
+7. Una vez ternime la instalación nos aparecera la siguiente figura en la cual tenemos que seleccionar *Unsigned* y luego clic en *Trust Selected*
 
 
 his is a small sample book to give you a feel for how book content is
