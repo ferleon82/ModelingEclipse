@@ -4,34 +4,34 @@ El proyecto EMF es un marco de modelado y una instalación de generación de có
 
 # Creando un nuevo projecto
 
-1. Dentro de Eclipse nos dirigirnos a Help* y seleccionamos *Install New Software.*
+1. Para crear un nuevo projecto hacemos clic en *New* y luego en *Other*
 
 
-![Figura 1](https://raw.githubusercontent.com/ferleon82/Imagenes/main/1.png)
+![Figura 1](https://raw.githubusercontent.com/ferleon82/Imagenes/main/9.png)
 
 
-2. Seleccionamos *--All Available Sities--*
+2. Se muestra una nueva ventana donde elegimos *Ecore Modeling Project* y clic en *Next >*
 
 
-![Figura 2](https://raw.githubusercontent.com/ferleon82/Imagenes/main/2.png)
+![Figura 2](https://raw.githubusercontent.com/ferleon82/Imagenes/main/10.png)
 
 
-3. Dentro de la opción Modeling seleccionamos *"Ecore Diagram Editor(SDK)"* y *"EMF - Eclipse Modeling Framework SDK".* Luego clic en *"Next>"*
+3. Ponemos un nuevo nombre al proyecto y *Next >*
 
 
-![Figura 3](https://raw.githubusercontent.com/ferleon82/Imagenes/main/3.png)
+![Figura 3](https://raw.githubusercontent.com/ferleon82/Imagenes/main/12.png)
 
 
-4. Click en *Next*
+4. Clic en *Next >*
 
 
-![Figura 4](https://raw.githubusercontent.com/ferleon82/Imagenes/main/4.png)
+![Figura 4](https://raw.githubusercontent.com/ferleon82/Imagenes/main/13.png)
 
 
-5. Aceptamos la licencia y finalizamos.
+5. Clic en *Next >*
 
 
-![Figura 5](https://raw.githubusercontent.com/ferleon82/Imagenes/main/5.png)
+![Figura 5](https://raw.githubusercontent.com/ferleon82/Imagenes/main/14.png)
 
 
 6. Esperamos que termine el proceso de instalacion que aparece en la barra inferior.
