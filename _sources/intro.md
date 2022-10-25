@@ -6,15 +6,20 @@ Eclipse Modeling Framework es un framework de modelado y facilidad de generació
 ![Figura 1](1.png)
 
 2. Seleccionamos --All Available Sities--
-![Figura 2](2.jpg)
+![Figura 2](2.png)
 
 3. Dentro de la opción Modeling seleccionamos "Ecore Diagram Editor(SDK)" y "EMF - Eclipse Modeling Framework SDK". Luego clic en "Next>"
-![Figura 3](3.jpg)
+![Figura 3](3.png)
 
 4. Click en Next
-![Figura 4](4.jpg)
+![Figura 4](4.png)
 
-This is a small sample book to give you a feel for how book content is
+5. Aceptamos la licencia y finalizamos.
+![Figura 5](4.png)
+
+6. Esperamos que termine el proceso de instalacion que aparece en la barra inferior.
+
+his is a small sample book to give you a feel for how book content is
 structured.
 It shows off a few of the major file types, as well as some sample content.
 It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
