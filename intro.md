@@ -3,7 +3,7 @@
 Eclipse Modeling Framework es un framework de modelado y facilidad de generación de código para construir herramientas y otras aplicaciones basadas en un modelo de datos estructurado. Detallaremos los pasos a seguir para realizar la instalacion en el IDE de desarrollo Eclipse:
 
 1. Dentro de Eclipse nos dirigirnos a Help y seleccionamos Install New Software.
-![Figura 1](1.png){width 80%}
+![Figura 1](1.jpg)
 
 2. Seleccionamos --All Available Sities--
 ![Figura 2](2.png){width 80%}
