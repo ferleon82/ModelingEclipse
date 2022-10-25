@@ -1,55 +1,57 @@
 # Instalación
 
-Whether you write your book's content in Jupyter Notebooks (`.ipynb`) or
-in regular markdown files (`.md`), you'll write in the same flavor of markdown
-called **MyST Markdown**.
-This is a simple file to help you get started and show off some syntax.
+Eclipse Modeling Framework es un framework de modelado y facilidad de generación de código para construir herramientas y otras aplicaciones basadas en un modelo de datos estructurado. Detallaremos los pasos a seguir para realizar la instalacion en el IDE de desarrollo Eclipse:
 
-## What is MyST?
+1. Dentro de Eclipse nos dirigirnos a Help* y seleccionamos *Install New Software.*
 
-MyST stands for "Markedly Structured Text". It
-is a slight variation on a flavor of markdown called "CommonMark" markdown,
-with small syntax extensions to allow you to write **roles** and **directives**
-in the Sphinx ecosystem.
 
-For more about MyST, see [the MyST Markdown Overview](https://jupyterbook.org/content/myst.html).
+![Figura 1](https://raw.githubusercontent.com/ferleon82/Imagenes/main/1.png)
 
-## Sample Roles and Directives
 
-Roles and directives are two of the most powerful tools in Jupyter Book. They
-are kind of like functions, but written in a markup language. They both
-serve a similar purpose, but **roles are written in one line**, whereas
-**directives span many lines**. They both accept different kinds of inputs,
-and what they do with those inputs depends on the specific role or directive
-that is being called.
+2. Seleccionamos *--All Available Sities--*
 
-Here is a "note" directive:
 
-```{note}
-Here is a note
+![Figura 2](https://raw.githubusercontent.com/ferleon82/Imagenes/main/2.png)
+
+
+3. Dentro de la opción Modeling seleccionamos *"Ecore Diagram Editor(SDK)"* y *"EMF - Eclipse Modeling Framework SDK".* Luego clic en *"Next>"*
+
+
+![Figura 3](https://raw.githubusercontent.com/ferleon82/Imagenes/main/3.png)
+
+
+4. Click en *Next*
+
+
+![Figura 4](https://raw.githubusercontent.com/ferleon82/Imagenes/main/4.png)
+
+
+5. Aceptamos la licencia y finalizamos.
+
+
+![Figura 5](https://raw.githubusercontent.com/ferleon82/Imagenes/main/5.png)
+
+
+6. Esperamos que termine el proceso de instalacion que aparece en la barra inferior.
+
+
+![Figura 6](https://raw.githubusercontent.com/ferleon82/Imagenes/main/6.png)
+
+
+7. Una vez ternime la instalación nos aparecera la siguiente figura en la cual tenemos que seleccionar *Unsigned* y luego clic en *Trust Selected*
+
+
+![Figura 7](https://raw.githubusercontent.com/ferleon82/Imagenes/main/7.png)
+
+
+8. Finalmente debemos reiniciar el programa
+
+
+![Figura 8](https://raw.githubusercontent.com/ferleon82/Imagenes/main/8.png)
+
+
+
+Consulte las páginas de contenido aquí.
+
+```{tableofcontents}
 ```
-
-It will be rendered in a special box when you build your book.
-
-Here is an inline directive to refer to a document: {doc}`markdown-notebooks`.
-
-
-## Citations
-
-You can also cite references that are stored in a `bibtex` file. For example,
-the following syntax: `` {cite}`holdgraf_evidence_2014` `` will render like
-this: {cite}`holdgraf_evidence_2014`.
-
-Moreover, you can insert a bibliography into your page with this syntax:
-The `{bibliography}` directive must be used for all the `{cite}` roles to
-render properly.
-For example, if the references for your book are stored in `references.bib`,
-then the bibliography is inserted with:
-
-```{bibliography}
-```
-
-## Learn more
-
-This is just a simple starter to get you started.
-You can learn a lot more at [jupyterbook.org](https://jupyterbook.org).
