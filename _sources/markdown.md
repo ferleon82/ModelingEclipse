@@ -2,6 +2,8 @@
 
 El proyecto EMF es un marco de modelado y una instalación de generación de código para construir herramientas y otras aplicaciones basadas en un modelo de datos estructurados. A partir de una especificación de modelo descrita en XMI, EMF proporciona herramientas y soporte de tiempo de ejecución para producir un conjunto de clases de Java para el modelo, junto con un conjunto de clases de adaptadores que permiten la visualización y edición del modelo basada en comandos, y un editor básico.
 
+![Figura 1](https://raw.githubusercontent.com/ferleon82/Imagenes/main/ecore_model.png)
+
 ## Creando un nuevo projecto
 
 + Para crear un nuevo projecto hacemos clic en *New* y luego en *Other*
